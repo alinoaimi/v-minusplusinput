@@ -3,6 +3,7 @@
 A number input with plus and minus buttons, as a Vue component.
 
 ![enter image description here](https://raw.githubusercontent.com/el7r/v-minusplusinput/master/media/demo.jpg)
+
 demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.github.io/v-minusplusinput/example.html)
 
 
@@ -31,6 +32,8 @@ demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.githu
     </html>
 
 options:
-|:max|maximum value  |
-|:min|minimum value|
-|:value|the value |
+|option| description |
+|--|--|
+| :min | minimum value |
+| :min | minimum value value |
+| :value | the value, may be used with :bind v-bind:value="someVariable" |
