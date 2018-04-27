@@ -1,0 +1,27 @@
+.minusplusnumber {
+    border:1px solid silver;
+    border-radius:5px;
+    background-color: #FFF;
+    margin:0 5px 0 5px;
+    display:inline-block;
+}
+.minusplusnumber div {
+    display:inline-block;
+}
+.minusplusnumber #field_container input {
+    width:50px;
+    text-align:center;
+    font-size:15px;
+    padding:3px;
+}
+.minusplusnumber .mpbtn {
+    padding:3px 10px 3px 10px;
+    cursor:pointer;
+    border-radius:5px;
+}
+.minusplusnumber .mpbtn:hover {
+    background-color:#DDD;
+}
+.minusplusnumber .mpbtn:active {
+    background-color:#c5c5c5;
+}
