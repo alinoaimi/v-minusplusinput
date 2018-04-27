@@ -8,7 +8,7 @@ demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.githu
 
 
 # Basic Example
-
+```html
     <html>
         <head>
             <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
@@ -30,9 +30,9 @@ demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.githu
         })
         </script>
     </html>
+```
 
 options:
-
  - **:min** - minimum value
  - **:max** - maximum value
  - **:value** - the value, may be used with :bind v-bind:value=“someVariable”
