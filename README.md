@@ -32,8 +32,7 @@ demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.githu
     </html>
 
 options:
-|option| description |
-|--|--|
-| :min | minimum value |
-| :min | minimum value value |
-| :value | the value, may be used with :bind v-bind:value="someVariable" |
+
+ - **:min** - minimum value
+ - **:max** - maximum value
+ - **:value** - the value, may be used with :bind v-bind:value=“someVariable”
