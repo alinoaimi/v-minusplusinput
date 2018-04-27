@@ -1,6 +1,6 @@
 
 # Vue Minus Plus Input
-A number input with plus and minus buttons, as a Vue component.
+A number input with plus and minus buttons, as a VueJS component.
 
 ![enter image description here](https://raw.githubusercontent.com/el7r/v-minusplusinput/master/media/demo.jpg)
 
