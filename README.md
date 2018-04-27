@@ -7,7 +7,7 @@ A number input with plus and minus buttons, as a VueJS component.
 demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.github.io/v-minusplusinput/example.html)
 
 
-# Basic Example
+## Basic Example
 ```html
     <html>
         <head>
@@ -32,7 +32,7 @@ demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.githu
     </html>
 ```
 
-options:
+## Options
  - **:min** - minimum value
  - **:max** - maximum value
  - **:value** - the value, may be used with :bind v-bind:value=“someVariable”
