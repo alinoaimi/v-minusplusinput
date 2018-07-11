@@ -4,3 +4,4 @@ if you have generated your app with CLI 3 and have a components folder, Here is 
 
 ## Calling in vues
 
+Please rerefer to `v2/views/PlusMinus.vue`
