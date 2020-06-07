@@ -4,7 +4,7 @@ A number input with plus and minus buttons, as a VueJS component.
 
 ![enter image description here](https://raw.githubusercontent.com/el7r/v-minusplusinput/master/media/demo.jpg)
 
-demo:  [https://el7r.github.io/v-minusplusinput/example.html](https://el7r.github.io/v-minusplusinput/example.html)
+demo:  [https://alinoaimi.github.io/v-minusplusinput/example.html](https://alinoaimi.github.io/v-minusplusinput/example.html)
 
 
 ## Basic Example
